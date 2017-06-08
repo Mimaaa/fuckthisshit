@@ -1,0 +1,16 @@
+{
+  "name": "fuckthisshit",
+  "version": "1.0.0",
+  "description": "Fuck this project, fuck these frameworks, fuck everything and especially this shit.",
+  "main": "package.json",
+  "scripts": {
+    "fuckthisshit": "rm *"
+  },
+  "keywords": [
+    "fuck",
+    "this",
+    "shit"
+  ],
+  "author": "Mirza van Meerwijk",
+  "license": "MIT"
+}
