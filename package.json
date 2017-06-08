@@ -12,5 +12,13 @@
     "shit"
   ],
   "author": "Mirza van Meerwijk",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mimaaa/fuckthisshit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mimaaa/fuckthisshit/issues"
+  },
+  "homepage": "https://github.com/Mimaaa/fuckthisshit#readme"
 }
