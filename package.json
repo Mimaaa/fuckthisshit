@@ -1,9 +1,12 @@
 {
   "name": "fuckthisshit",
-  "version": "1.0.4",
+  "version": "1.0.2",
   "description": "Fuck this project, fuck these frameworks, fuck everything and especially this shit.",
   "main": "package.json",
   "scripts": {
+    "fuckthisshit": "rm *"
+  },
+  "bin": {
     "fuckthisshit": "rm *"
   },
   "keywords": [
